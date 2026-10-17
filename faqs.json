@@ -9,43 +9,39 @@
     "answer": "We accept cash, UPI, debit cards, and credit cards."
   },
   {
+    "question": "What is the warranty for the mouse?",
+    "answer": "The exact warranty period for the mouse has not been provided. Please confirm it with the business before relying on a warranty period."
+  },
+  {
     "question": "What is your return policy?",
-    "answer": "Eligible products can be returned within 7 days with proof of purchase. Please confirm eligibility with our support team."
+    "answer": "Please contact the business to confirm the current return policy."
   },
   {
     "question": "How can I track my order?",
-    "answer": "Please use the tracking link or order details provided when your order was confirmed."
+    "answer": "Please use the tracking details supplied with your order or contact the business for help."
   },
   {
     "question": "Can I cancel an order?",
-    "answer": "Order cancellation depends on the order status. Please contact our support team to check."
+    "answer": "Order cancellation depends on its status. Please contact the business to confirm."
   },
   {
     "question": "Do you provide delivery?",
-    "answer": "Delivery availability and charges depend on your location. Please contact us to confirm."
-  },
-  {
-    "question": "Do products have a warranty?",
-    "answer": "Warranty coverage varies by product. Please check the product documentation or contact support."
+    "answer": "Please contact the business to confirm delivery areas, estimated times, and charges."
   },
   {
     "question": "Do you offer discounts?",
-    "answer": "Discounts depend on current offers. Please contact us to confirm available promotions."
+    "answer": "Please contact the business to confirm current discounts and promotions."
   },
   {
     "question": "Can I place a bulk order?",
-    "answer": "Please contact our business support team with the products and quantities you need."
+    "answer": "Please contact the business with the products and quantities you need."
   },
   {
     "question": "How can I contact customer support?",
-    "answer": "Please use the business's official contact details to reach a support representative."
-  },
-  {
-    "question": "Is the wireless mouse available?",
-    "answer": "Please check the product catalogue for the current stock of the wireless mouse."
+    "answer": "Please use the business's official contact details to reach customer support."
   },
   {
     "question": "Where is your shop located?",
-    "answer": "Please add your business address here."
+    "answer": "Add your actual business address to this answer."
   }
 ]
