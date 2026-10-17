@@ -1,0 +1,12 @@
+
+product_id,name,category,price,stock,description
+P001,Wireless Mouse,Accessories,599,20,Wireless mouse with USB receiver
+P002,USB Keyboard,Accessories,799,15,Full-size USB keyboard
+P003,Headphones,Audio,1499,10,Over-ear headphones with microphone
+P004,USB Cable,Accessories,199,50,USB charging and data cable
+P005,Bluetooth Speaker,Audio,1999,8,Portable Bluetooth speaker
+P006,Power Bank,Accessories,1299,12,10000mAh portable charging power bank
+P007,Webcam,Electronics,1799,7,HD webcam for online meetings
+P008,Laptop Stand,Accessories,899,14,Adjustable laptop stand
+P009,Smart Watch,Wearables,2499,6,Smart watch with activity tracking
+P010,Phone Charger,Accessories,499,25,USB phone charger
