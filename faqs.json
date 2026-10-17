@@ -2,46 +2,42 @@
 [
   {
     "question": "What are your opening hours?",
-    "answer": "Our shop is open Monday to Saturday, from 9 AM to 8 PM."
+    "answer": "Please check the business's official page for current opening hours."
   },
   {
     "question": "What payment methods do you accept?",
-    "answer": "We accept cash, UPI, debit cards, and credit cards."
+    "answer": "Please confirm the accepted payment methods with the business before placing an order."
   },
   {
-    "question": "What is the warranty for the mouse?",
-    "answer": "The exact warranty period for the mouse has not been provided. Please confirm it with the business before relying on a warranty period."
+    "question": "What is your warranty policy?",
+    "answer": "Warranty coverage depends on the product. Please confirm the warranty period and terms with customer support."
   },
   {
     "question": "What is your return policy?",
-    "answer": "Please contact the business to confirm the current return policy."
+    "answer": "Please confirm the return window, product eligibility, and return conditions with customer support."
   },
   {
     "question": "How can I track my order?",
-    "answer": "Please use the tracking details supplied with your order or contact the business for help."
+    "answer": "Use the tracking information provided with your order. This demo does not connect to a live order-tracking system."
   },
   {
-    "question": "Can I cancel an order?",
-    "answer": "Order cancellation depends on its status. Please contact the business to confirm."
+    "question": "Can I cancel my order?",
+    "answer": "Order cancellation depends on its status. Please contact customer support to confirm your options."
   },
   {
-    "question": "Do you provide delivery?",
-    "answer": "Please contact the business to confirm delivery areas, estimated times, and charges."
+    "question": "How long does delivery take?",
+    "answer": "Delivery times depend on your location and the order. Please confirm the estimated delivery date before purchasing."
   },
   {
     "question": "Do you offer discounts?",
-    "answer": "Please contact the business to confirm current discounts and promotions."
+    "answer": "No current discount information is available in this demo. Please confirm current offers with the business."
   },
   {
-    "question": "Can I place a bulk order?",
-    "answer": "Please contact the business with the products and quantities you need."
+    "question": "Do you accept bulk orders?",
+    "answer": "Please contact customer support to confirm bulk-order availability and pricing."
   },
   {
-    "question": "How can I contact customer support?",
-    "answer": "Please use the business's official contact details to reach customer support."
-  },
-  {
-    "question": "Where is your shop located?",
-    "answer": "Add your actual business address to this answer."
+    "question": "How do I contact customer support?",
+    "answer": "Please use the business's official customer-support channel."
   }
 ]
