@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What are your opening hours?",
+    "answer": "Our shop is open Monday to Saturday, from 9 AM to 8 PM."
+  },
+  {
+    "question": "Are you open on Sunday?",
+    "answer": "Our shop is normally closed on Sunday."
+  },
+  {
+    "question": "Where is your shop located?",
+    "answer": "Please contact our support team for the exact shop address."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash, UPI, debit cards, and credit cards."
+  },
+  {
+    "question": "Do you accept online payments?",
+    "answer": "Yes, we accept UPI and card payments."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Cash on delivery availability has not been confirmed. Please contact support."
+  },
+  {
+    "question": "Do you provide home delivery?",
+    "answer": "Home delivery is available depending on the customer's location."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Delivery time depends on your location and order. Please contact support for an estimate."
+  },
+  {
+    "question": "How much are delivery charges?",
+    "answer": "Delivery charges depend on your location and order."
+  },
+  {
+    "question": "Can I track my order?",
+    "answer": "Please contact our support team for order tracking assistance."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Order cancellation depends on the order status. Please contact support."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "Eligible products can be returned within 7 days with proof of purchase."
+  },
+  {
+    "question": "Can I return a damaged product?",
+    "answer": "Please contact support with your proof of purchase so we can review the issue."
+  },
+  {
+    "question": "How can I request a refund?",
+    "answer": "Please contact support with your order details to check refund eligibility."
+  },
+  {
+    "question": "How long does a refund take?",
+    "answer": "Refund processing times depend on the case and payment method. Please contact support."
+  },
+  {
+    "question": "Do your products have a warranty?",
+    "answer": "Warranty coverage depends on the product. Please contact support to confirm the applicable warranty."
+  },
+  {
+    "question": "Do you offer discounts?",
+    "answer": "Please contact our team to learn about current discounts and offers."
+  },
+  {
+    "question": "Do you offer bulk orders?",
+    "answer": "Please contact support for bulk order availability and pricing."
+  },
+  {
+    "question": "What if a product is out of stock?",
+    "answer": "Please contact support to ask about restocking availability."
+  },
+  {
+    "question": "Can I exchange a product?",
+    "answer": "Please contact support to confirm whether your product is eligible for an exchange."
+  },
+  {
+    "question": "What should I do if I receive the wrong product?",
+    "answer": "Please contact support with your order details so the issue can be reviewed."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can submit your question through BizzBudy for review by the support team."
+  },
+  {
+    "question": "Can I speak to a human?",
+    "answer": "Yes. BizzBudy can flag questions that need assistance from a human support team."
+  },
+  {
+    "question": "Can I reserve a product?",
+    "answer": "Please contact support to confirm whether product reservations are available."
+  },
+  {
+    "question": "Are your products genuine?",
+    "answer": "Please contact our team for product authenticity and sourcing information."
+  },
+  {
+    "question": "Can I order products for my business?",
+    "answer": "Please contact support for business orders and available quantities."
+  },
+  {
+    "question": "Do you sell products online?",
+    "answer": "Please contact our team for information about online ordering."
+  },
+  {
+    "question": "How can I give feedback?",
+    "answer": "You can submit your feedback through BizzBudy for review by our support team."
+  },
+  {
+    "question": "What if I have a complaint?",
+    "answer": "We are sorry for the inconvenience. Please contact our support team so they can review your complaint."
+  },
+  {
+    "question": "How can I check product availability?",
+    "answer": "Ask BizzBudy about a product to check the stock quantity listed in the product catalogue."
+  }
+]
